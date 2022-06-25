@@ -1,0 +1,25 @@
+{
+  "type": "mekanismtools:paxel",
+  "key": {
+    "A": {
+      "item": "mekanismtools:osmium_axe"
+    },
+    "P": {
+      "item": "mekanismtools:osmium_pickaxe"
+    },
+    "R": {
+      "tag": "forge:rods/wooden"
+    },
+    "S": {
+      "item": "mekanismtools:osmium_shovel"
+    }
+  },
+  "pattern": [
+    "APS",
+    " R ",
+    " R "
+  ],
+  "result": {
+    "item": "mekanismtools:osmium_paxel"
+  }
+}

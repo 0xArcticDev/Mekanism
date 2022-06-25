@@ -1,0 +1,25 @@
+{
+  "type": "mekanismtools:paxel",
+  "key": {
+    "A": {
+      "item": "mekanismtools:steel_axe"
+    },
+    "P": {
+      "item": "mekanismtools:steel_pickaxe"
+    },
+    "R": {
+      "tag": "forge:ingots/iron"
+    },
+    "S": {
+      "item": "mekanismtools:steel_shovel"
+    }
+  },
+  "pattern": [
+    "APS",
+    " R ",
+    " R "
+  ],
+  "result": {
+    "item": "mekanismtools:steel_paxel"
+  }
+}
